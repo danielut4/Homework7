@@ -1,0 +1,9 @@
+* {    font-family: 'Quicksand', sans-serif;
+}
+
+.jumbotron {
+	background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2018/10/HyperloopTT-Capsule-left.jpg');
+	background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.75;
+}
